@@ -1,9 +1,13 @@
+<!DOCTYPE html>
 <html>
-   <head>
-      <title>Two Minute Video</title>
+  <head>
+      <title>Elevator Pitch</title>
       <link href = "style.css" type = "text/css" rel = "stylesheet">
-   </head>
-   <body>
-	<embed src="doc2.pdf" width="100%" height="100%" />
-   </body>
+  </head>
+  <body>
+    <video width="100%" height="100%" controls>
+      <source src="video.mp4" type=video/mp4>
+    </video>
+    <p>Thank you</p>
+  </body>
 </html>
